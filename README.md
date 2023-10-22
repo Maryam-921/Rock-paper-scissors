@@ -19,7 +19,7 @@ changing images and text based on user and computer inputs with the help of java
 
 ### Screenshot
 
-![](./images/Final.png)
+![](./Final.png)
 
 ### Links
 
