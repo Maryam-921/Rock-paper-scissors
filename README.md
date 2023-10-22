@@ -23,7 +23,7 @@ changing images and text based on user and computer inputs with the help of java
 
 ### Links
 
-- Solution URL: []
+- Solution URL: [https://github.com/Maryam-921/Rock-paper-scissors]
 - Live Site URL: [Add live site URL here]
 
 ## My process
